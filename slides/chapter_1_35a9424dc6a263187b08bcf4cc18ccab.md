@@ -66,7 +66,7 @@ key: "f68225c0c7"
 ```
 
 `@part1`
-
+![](https://assets.datacamp.com/production/repositories/4703/datasets/1ac80a278e9ee568b083cbe80b093b97f6788305/datacamp_asset3.png)
 
 
 `@script`
