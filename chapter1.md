@@ -54,3 +54,23 @@ xp: 50
 
 `@projector_key`
 35a9424dc6a263187b08bcf4cc18ccab
+
+---
+
+## Normalizing sales data
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 270526a1c9
+xp: 50
+```
+
+
+
+`@hint`
+
+
+`@possible_answers`
+
+
+`@feedback`
