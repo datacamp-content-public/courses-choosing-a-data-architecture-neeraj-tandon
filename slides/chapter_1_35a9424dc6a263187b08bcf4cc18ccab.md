@@ -34,7 +34,7 @@ center_content: true
 
 
 `@script`
-I’d like you to imagine you are a store manager of a camping store. In this position you manage sales representatives, work with customers, and are charged with reporting sales performance back to headquarters.
+I’d like you to imagine you are a store manager of a pet store called Pete's Pets. In this position you manage sales representatives, work with customers, and are charged with reporting sales performance back to headquarters.
 
 
 ---
