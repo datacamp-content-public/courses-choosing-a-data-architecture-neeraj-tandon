@@ -61,11 +61,15 @@ As you see we have a lot of fields. The log was created with the intention of tr
 ## Problem Scenario: Updating Customer Information
 
 ```yaml
-type: "FullSlide"
-key: "f68225c0c7"
+type: "TwoColumns"
+key: "909e3ece6b"
 ```
 
 `@part1`
+![Sales Log](https://assets.datacamp.com/production/repositories/4703/datasets/5348c3327359a2b9d75d0e0f8be941d06e8abaed/datacamp_asset2.png)
+
+
+`@part2`
 ![](https://assets.datacamp.com/production/repositories/4703/datasets/1ac80a278e9ee568b083cbe80b093b97f6788305/datacamp_asset3.png)
 
 
