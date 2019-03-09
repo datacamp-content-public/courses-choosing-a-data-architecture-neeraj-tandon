@@ -1,4 +1,4 @@
-title: Choosing a Data Architecture Neeraj Tandon
-description: Course description goes here.
-programming_language: python
-from: python-base-prod:v1.0.2
+title: "Choosing a Data Architecture"
+description: "Course description goes here."
+programming_language: "python"
+from: "python-base-prod:v1.0.2"
