@@ -34,7 +34,7 @@ center_content: true
 
 
 `@script`
-I’d like you to imagine you are a store manager of a pet store called Pete's Pets. In this position you manage sales representatives, work with customers, and are charged with reporting sales performance back to headquarters.
+I’d like you to imagine you are a store manager of a new hip pet store called Pete's Pets. In this position you manage sales representatives, work with customers, and are charged with reporting sales performance back to Pete's Pets headquarters.
 
 
 ---
@@ -70,9 +70,7 @@ key: "f68225c0c7"
 For instance, in the case of customer information, what if a customer updated their email?  To update the email, you would have to go to each transaction made in the sales log and manually change the customer’s email address. This is not only tedious but an error-prone process. Since email address tends to be used as a unique identifier for a customer, you run into the possibility of losing customer information if the email doesn’t get updated in all the right places. You no longer have a reliable method of capturing overall sales data and would struggle to do any sort of customer segmentation with your data. 
 
 
-Structuring data this way is clearly problematic and with so many entities being represented, we certainly have our work cut out for us. Luckily there are some foundational rules for normalization that we use to our advantage to organize our data. 
-
-And onto normalization...
+Structuring data this way is clearly problematic and with so many entities being represented, we certainly have our work cut out for us. Luckily there are some foundational rules for normalization that we use to our advantage to organize our data.
 
 
 ---
