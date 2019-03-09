@@ -26,6 +26,7 @@ title: Instructor
 ```yaml
 type: "FullSlide"
 key: "b0e33f4877"
+center_content: true
 ```
 
 `@part1`
@@ -33,7 +34,24 @@ key: "b0e33f4877"
 
 
 `@script`
-I’d like you to imagine you are a store manager of a candy store. In this position you manage sales representatives, work with customers, and are charged with reporting sales performance back to headquarters. Currently, you use a spreadsheet where you task sales reps with logging their sales on a daily basis. This log gets reviewed on a weekly basis
+I’d like you to imagine you are a store manager of a camping store. In this position you manage sales representatives, work with customers, and are charged with reporting sales performance back to headquarters.
+
+
+---
+## Scenario: Managing Sales Data
+
+```yaml
+type: "FullSlide"
+key: "6f207cf015"
+```
+
+`@part1`
+Sales Log
+
+
+`@script`
+Currently, you use a spreadsheet where you task sales reps with logging their sales on a daily basis. This log gets reviewed on a weekly basis...
+As you see we have a lot of fields. The log was created with the intention of tracking sales, but it looks like it’s also tracking other information like customer details, and store location. These are all important and valid data points to track, but what if we want to track more data points? As our data grows, and more fields are added, we will be left with one gigantic table multiple sales reps will have to go in and update daily and include a lot of redundant information each item.
 
 
 ---
@@ -42,6 +60,22 @@ I’d like you to imagine you are a store manager of a candy store. In this posi
 ```yaml
 type: "FullSlide"
 key: "a4281134f4"
+```
+
+`@part1`
+
+
+
+`@script`
+One way to understand what normalization is to first see what denormalized data looks like.
+
+
+---
+## Problem Scenario: Updating Customer Information
+
+```yaml
+type: "FullSlide"
+key: "f68225c0c7"
 ```
 
 `@part1`
