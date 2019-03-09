@@ -1,6 +1,7 @@
 ---
-title: 'Chapter Title Here'
+title: 'Lesson 2.1: Intro to normalization'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Example coding exercise
@@ -40,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Lesson 2.1: Intro to normalization
+
+```yaml
+type: VideoExercise
+key: 325150b3d9
+xp: 50
+```
+
+`@projector_key`
+35a9424dc6a263187b08bcf4cc18ccab
